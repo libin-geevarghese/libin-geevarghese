@@ -3,9 +3,11 @@
 
 
               const Libin_Geevarghese = {               
-                           pronouns: "he" | "him",                   
+                           pronouns: "he" | "him",  
+                           develops : Websites 
+                           domain : MERN Stack
                            code: [Javascript, Typescript, HTML, CSS, Python],
-                           tools: [React, Codux, Node, Photoshop],
+                           tools: [React, Node, Photoshop, Codux],
                            };
 
 
@@ -13,7 +15,7 @@
 
 Hi, I'm Libin Geevarghese, an accidental web developer with over two years of experience in the boring finance industry.  During my quest to reduce workloads and eliminate repetitive processes after getting tired of dating numbers and Excel workbooks, I met a beautiful girl named JavaScript and fell in love with her. Together, we began creating web applications to streamline the work of my entire team, and that's how I became the innovation champion 🏆🏆... hurray 🎉🎉🎉 
 
-image.jpg
+certficate.jpg
 
 
 
@@ -25,7 +27,13 @@ vivre pour manger 🍔🍜🥂
 
 
 
-
+             const lifeIsAwesome = () => {
+                let happiness <=infinity;
+                 while (true) {
+                     console.log(`Life is awesome with happiness level: ${happiness}`);
+                     happiness++;
+                }
+              }
 
 
 
