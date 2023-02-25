@@ -30,7 +30,7 @@ vivre pour manger 🍔🍜🥂
              const lifeIsAwesome = () => {
                 let happiness <=infinity;
                  while (true) {
-                     console.log(`Life is awesome with happiness level: ${happiness}`);
+                     document.write (`Life is awesome with happiness level: ${happiness}`);
                      happiness++;
                 }
               }
