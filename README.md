@@ -37,7 +37,7 @@ vivre pour manger 🍔🍜🥂
 
 
 
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7039883752323366912" height="323" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 <!--
