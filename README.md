@@ -15,7 +15,7 @@
 
 Hi, I'm Libin Geevarghese, an accidental web developer with over two years of experience in the boring finance industry.  During my quest to reduce workloads and eliminate repetitive processes after getting tired of dating numbers and Excel workbooks, I met a beautiful girl named JavaScript and fell in love with her. Together, we began creating web applications to streamline the work of my entire team, and that's how I became the innovation champion 🏆🏆... hurray 🎉🎉🎉 
 
-<img src="https://user-images.githubusercontent.com/118127251/235499465-ba36d7f7-308c-46fa-bf39-7eb414a1d5d8.jpg" alt="RRD Q4 Certificate" width="900" height="400">
+<img src="https://user-images.githubusercontent.com/118127251/235499465-ba36d7f7-308c-46fa-bf39-7eb414a1d5d8.jpg" alt="RRD Q4 Certificate" width="700" height="400">
 
 
 ### A little more about me.. 
